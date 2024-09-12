@@ -2,3 +2,9 @@
 */.ipynb_checkpoints/
 .ipynb_checkpoints/
 */.ipynb_checkpoints/*
+
+# merge folder
+merge
+
+# pdf files
+*.pdf
