@@ -1,0 +1,13 @@
+# for jupyter notebook
+*/.ipynb_checkpoints/
+./ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+
+# for pdf files
+*.pdf
+
+# merge folder
+merge
+
+
