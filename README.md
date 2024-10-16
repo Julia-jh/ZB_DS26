@@ -13,7 +13,14 @@ This is a repo with my study notes about Data Science from ZB
     - PracticeNote_DSnAL.ipynb
     - StudyNote_DSnAL.ipynb
 - 04_EDA
-    - PracticeNote_DSnAL_01.ipynb
+    - StudyNote_EDA_01.ipynb
+    - StudyNote_EDA_02.ipynb
+    - StudyNote_EDA_03.ipynb
+    - StudyNote_EDA_04.ipynb
+    - StudyNote_EDA_05.ipynb
+    - StudyNote_EDA_06.ipynb
+    - StudyNote_EDA_07.ipynb
+    - StudyNote_EDA_08.ipynb
 - 05_SQL
 - 06_Git
 - 07_Statistis
